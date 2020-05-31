@@ -1,0 +1,4 @@
+res = (1, "name")
+with open('conda_stats.csv', 'a') as f:
+      wr = csv.writer(f, delimiter=',')
+      wr.writerow(res)

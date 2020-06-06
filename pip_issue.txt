@@ -1,0 +1,1 @@
+/media/sammy/41e7eeba-81dd-4fbd-bb1a-cd62ed4f5d82/venv_tars_no_deps$ rm /media/sammy/41e7eeba-81dd-4fbd-bb1a-cd62ed4f5d82/venv_tars_no_deps/lib/python3.7/site-packages/vext*.pth
